@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+    background-image: url(../imge/5d15c3b1746d2950d44ac88e446451a5.jpg);
+    background-size: cover;
+}
+.card{
+    width: 50%;
+    border-radius: 20px;
+    display: none;
+    
+}
+.card h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
